@@ -1,4 +1,4 @@
-<h1>About Me:</h1>
+<h1><font color:#666666">About Me:</font></h1>
 
 Comprehensive Fullstack programming: PHP, ASP Classic, HTML, CSS
 
