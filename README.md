@@ -1,4 +1,6 @@
-## Hi there 👋
+About Me:
+Comprehensive Fullstack programming: PHP, HTML, CSS
+
 
 <!--
 **hamidgit2021/hamidgit2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
