@@ -1,10 +1,10 @@
 <h1>About Me:</h1>
 
-Comprehensive Fullstack programming: PHP, ASP Classic, HTML, CSS
+Comprehensive Fullstack programming: PHP, ASP Classic, JavaScript, HTML, CSS
 
 <h1>Technologies:</h1>
-AWS, AZURE, DIGITALOCEAN
-GitHub, Maven, Jenkins, Nexus, Terraform, Docker, Kubernetes.
+AWS, AZURE, DIGITALOCEAN <br>
+LINUX, GitHub, Maven, Sonarqube, CI/CD Pipelines, Jenkins, Nexus, Ansible, Terraform, Docker, Kubernetes.<br>
 DATABASES: MS SQL, MySQL, SQLite
 
 
